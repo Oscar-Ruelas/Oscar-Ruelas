@@ -9,7 +9,7 @@
 
 ## Skills
 
-- **Bilingual:** Fluent in both Spanish and English. 🇪🇸🇺🇸
+- **Bilingual:** Fluent in both Spanish and English.
 - **Proficient in Java:** Experienced in developing console applications and solving problems using Java. ☕💻
 
 ## Hobbies
