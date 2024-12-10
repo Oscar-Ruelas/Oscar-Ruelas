@@ -1,4 +1,4 @@
-<img align="center" src="https://wallpapers-clan.com/wp-content/uploads/2024/03/dragon-ball-goku-sparks-gif-preview-desktop-wallpaper.gif" alt="Oscar's Avatar" height = "350"/>
+<img align="center" src="https://wallpapers-clan.com/wp-content/uploads/2024/03/dragon-ball-goku-sparks-gif-preview-desktop-wallpaper.gif" alt="Goku" height = "350"/>
 
 <h1 align="center">👋 WELCOME, I'm Oscar Ruelas</h1>
 
@@ -49,7 +49,7 @@
 
 ### 🔗 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/oscar-ruelas](https://www.linkedin.com/in/oscar-ruelas-9aaa2a195/" target="blank">
+  <a href="https://www.linkedin.com/in/oscar-ruelas-9aaa2a195/" target="blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
   </a>
 </p>
