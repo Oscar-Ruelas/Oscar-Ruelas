@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Bio
 - **Passionate about Technology**: I enjoy contributing to open-source projects like **Home Assistant**, where I integrate and automate everyday processes. ⚙️🏠  
-- **Background**: Computer Science student, fluent in both Spanish and English.  
+- **Background**: Undergrad student at Eastern Washington University who specializes in home automation, fluent in both Spanish and English.  
 
 ---
 
