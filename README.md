@@ -1,4 +1,4 @@
-<img align="center" src="https://wallpapers-clan.com/wp-content/uploads/2024/03/dragon-ball-goku-sparks-gif-preview-desktop-wallpaper.gif" alt="Oscar's Avatar"/>
+<img align="center" src="https://wallpapers-clan.com/wp-content/uploads/2024/03/dragon-ball-goku-sparks-gif-preview-desktop-wallpaper.gif" alt="Oscar's Avatar" height = "350"/>
 
 <h1 align="center">👋 WELCOME, I'm Oscar Ruelas</h1>
 
